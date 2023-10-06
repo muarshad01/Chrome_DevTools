@@ -18,5 +18,5 @@
 
 * [Generating a .HAR File on Chrome Browser] (https://www.youtube.com/watch?v=m98WFEXbhIs)
 
-Go to the link -> Right-click `Inspect` -> `Networ` -> `Preserve log` is checked -> `Disable cache` is checked->`All`
+* Go to the link -> Right-click `Inspect` -> `Networ` -> `Preserve log` is checked -> `Disable cache` is checked->`All`
 ***
