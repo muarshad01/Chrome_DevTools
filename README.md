@@ -33,3 +33,11 @@
 * [Inspecting file download headers using Chrome developer tools](https://www.youtube.com/watch?v=BxNnYq_pLQU)
 
 ***
+
+## StackOverflow
+
+* [Capture Downloads in the Network Tab of Google Chrome Developer Tools](https://stackoverflow.com/questions/48921321/capture-downloads-in-the-network-tab-of-google-chrome-developer-tools)
+
+```
+It's true. The download is done in another tab, which is immediately closed upon download completion. The suggested method of Mathias is brilliant and works like a charm : foto to chrome://downloads and copy URL of the download. Then go to the page that displays the link, open the dev tools/network, and then pasted link and hit ENTER. The request is captured and you can get the curl version of the download. Brilliant @Matthias Schuchardt
+```
