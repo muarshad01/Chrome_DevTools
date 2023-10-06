@@ -16,7 +16,7 @@
 
 ## `HAR (HTTP Archive)` File
 
-* [Generating a .HAR File on Chrome Browser] (https://www.youtube.com/watch?v=m98WFEXbhIs)
+* [Generating a .HAR File on Chrome Browser](https://www.youtube.com/watch?v=m98WFEXbhIs)
 
 * Go to the web-link -> Right-click `Inspect` -> `Networ` -> `Preserve log` is checked -> `Disable cache` is checked->`All` -> Refresh the web-link -> right-click on a `Name` entry -> Save all as `HAR` with content
 
