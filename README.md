@@ -1,4 +1,6 @@
-#Chrome DevTool
+# Chrome DevTool
+
+***
 
 * Browser three vertical dots -> `More Tools` -> `Developer Tools` -> `Network` -> `Disable cache`
     - `https://badssl.com`
