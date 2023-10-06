@@ -29,3 +29,7 @@
     - drag / drop you .HAR file
 
 ***
+
+* [Inspecting file download headers using Chrome developer tools](https://www.youtube.com/watch?v=BxNnYq_pLQU)
+
+***
